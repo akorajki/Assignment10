@@ -78,8 +78,7 @@ public class WarGame extends Deck
    }
      
    public boolean equalTo(int card1, int card2) //checks to see if p1's card is
-   {                                            // equal to p2
-   s   
+   {                                            // equal to p2  
       boolean x;
       if (card1 == card2)
       {
